@@ -70,3 +70,9 @@ The interactive Power BI dashboard allows users to:
 
 - Power BI Desktop (latest version)
 - Familiarity with Power BI for modifying or updating the dashboard
+
+![SilcharstoreSalesDashboard1](https://github.com/user-attachments/assets/4cd7ef40-860d-45d2-8104-a7f0d8ef2138)
+
+![SilcharstoreSalesDashboard2](https://github.com/user-attachments/assets/3f89805f-d63d-4b33-985c-1f8e3ac0d350)
+![SilcharstoreSalesDashboard2](https://github.com/user-attachments/assets/d84291ed-8582-4887-874d-7c0b2ea95e34)
+
